@@ -3,5 +3,20 @@
 
 // but you're not, so you'll write it from scratch:
 var parseJSON = function(json) {
-  // your code goes here
+
+  var object = {};
+
+  // if curly brace or square bracket, it's array or object and call that function
+
+  // Will need to account for whitespace and escape characters eventually
+
+  // Identify value based on first character
+  // Based on value,
+
+
+  // String - start with "
+  //
+
+
+  return object;
 };
